@@ -48,17 +48,17 @@ This project demonstrates the implementation of **Simple Linear Regression** usi
 
 ---
 
-##📊 Model Equation
+## 📊 Model Equation
 𝑆𝑎𝑙𝑎𝑟𝑦 = 26780.10 + 9312.58 × 𝑌𝑒𝑎𝑟𝑠 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒
 
 ---
 
-##📈 Model Performance
+## 📈 Model Performance
 R² Score: 0.988
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 Salary_Prediction/
 ├── Salary_Data.csv
 ├── simple_linear_regression.py
@@ -66,7 +66,7 @@ Salary_Prediction/
 
 ---
 
-##✅ Conclusion
+## ✅ Conclusion
 The Simple Linear Regression model effectively predicts salary based on years of experience with high accuracy. This project highlights the fundamentals of regression analysis, model training, visualization, and evaluation.
 
 Explains 98.8% of the variation in salary
